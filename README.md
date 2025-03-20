@@ -1,5 +1,6 @@
 # sihyun-kim
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjneon1001&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/neon1001)
+
 ![neon1001github](https://github-readme-stats.vercel.app/api?username=neon1001&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neon101)](https://solved.ac/neon101/)
 
