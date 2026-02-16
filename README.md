@@ -1,6 +1,5 @@
 # sihyun-kim
 
-![neon1001github](https://github-readme-stats.vercel.app/api?username=neon1001&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neon101)](https://solved.ac/neon101/)
 
 # 💪Skills
