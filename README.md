@@ -1,7 +1,5 @@
 # sihyun-kim
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neon101)](https://solved.ac/neon101/)
-
 # Skills
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
